@@ -83,7 +83,7 @@ namespace AFS.SAMPLE.ApplicationLayer.Users
                 UserName=s.User!=null?s.User.UserName:"-",
                 CreateDate=s.CreateDate.ToLocalTime().ToString("mm/dd/yyyy HH:mm:ss"),
                 Text=s.InputText,
-                Translation=s.ResponseTranslated??"no-result"
+                Translation=!string.IsNullOrEmpty(s.ResponseTranslated)?s.ResponseTranslated:"no-result"
             }).ToList();
 
             return result;
