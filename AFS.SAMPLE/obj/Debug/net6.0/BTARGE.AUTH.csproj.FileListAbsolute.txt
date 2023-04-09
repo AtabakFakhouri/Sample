@@ -1,0 +1,14 @@
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\bin\Debug\net6.0\BTARGE.AUTH.deps.json
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\bin\Debug\net6.0\BTARGE.AUTH.runtimeconfig.json
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\bin\Debug\net6.0\BTARGE.AUTH.dll
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\bin\Debug\net6.0\BTARGE.AUTH.pdb
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.csproj.AssemblyReference.cache
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.AssemblyInfoInputs.cache
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.AssemblyInfo.cs
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.dll
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\refint\BTARGE.AUTH.dll
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.pdb
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\BTARGE.AUTH.genruntimeconfig.cache
+C:\Users\HP\source\BTARGE.AUTH\BTARGE.AUTH\obj\Debug\net6.0\ref\BTARGE.AUTH.dll

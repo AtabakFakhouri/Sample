@@ -1,0 +1,10 @@
+.mt{
+    margin-top: 10px;
+}
+.main{
+    margin-top: 50px;
+}
+
+.nav .li{
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\bin\Debug\net6.0\AFS.SAMPLE.deps.json
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\bin\Debug\net6.0\AFS.SAMPLE.runtimeconfig.json
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\bin\Debug\net6.0\AFS.SAMPLE.dll
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\bin\Debug\net6.0\AFS.SAMPLE.pdb
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.csproj.AssemblyReference.cache
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.AssemblyInfoInputs.cache
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.AssemblyInfo.cs
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.dll
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\refint\AFS.SAMPLE.dll
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.pdb
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\AFS.SAMPLE.genruntimeconfig.cache
+C:\Users\HP\source\AFS.SAMPLE\AFS.SAMPLE\obj\Debug\net6.0\ref\AFS.SAMPLE.dll

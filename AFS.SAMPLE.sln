@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFS", "AFS.SAMPLE\AFS.SAMPLE.csproj", "{9DA2D560-14F1-4601-A514-431FB2DFF31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFS.SAMPLE.WEBSERVICE", "AFS.SAMPLE.WEBSERVICE\AFS.SAMPLE.WEBSERVICE.csproj", "{BB9FDF6E-B626-4782-A12A-B184CEE46E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA2D560-14F1-4601-A514-431FB2DFF31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA2D560-14F1-4601-A514-431FB2DFF31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA2D560-14F1-4601-A514-431FB2DFF31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA2D560-14F1-4601-A514-431FB2DFF31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9FDF6E-B626-4782-A12A-B184CEE46E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9FDF6E-B626-4782-A12A-B184CEE46E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9FDF6E-B626-4782-A12A-B184CEE46E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9FDF6E-B626-4782-A12A-B184CEE46E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2747055A-EBAF-4474-9499-2F2F11BB8D38}
+	EndGlobalSection
+EndGlobal
